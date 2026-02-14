@@ -1,0 +1,2 @@
+delay = 1000 ms
+alpha = 0.66

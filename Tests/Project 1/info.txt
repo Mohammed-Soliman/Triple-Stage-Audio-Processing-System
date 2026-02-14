@@ -1,0 +1,5 @@
+Periodic Sin wave with amp = 1 & freq = 1 Hz
+
+clipped at 0.8
+
+THD = 8.94%

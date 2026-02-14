@@ -1,0 +1,3 @@
+cutoff freq = 250 Hz
+filter order = 20
+gain = 30
