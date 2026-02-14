@@ -3,7 +3,7 @@
 This project implements a multi-stage audio processing system in MATLAB and Simulink. It combines **three audio processing modules** into a single GUI application for real-time audio manipulation.
 
 Course: CIE 227 – Signals and Systems  
-Institution: Zewail City of Science and Technology
+Institution: Zewail City of Science and Technology  
 Semester: Fall 2025
 
 ---
