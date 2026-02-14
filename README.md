@@ -40,7 +40,7 @@ All stages are implemented with MATLAB functions and Simulink models.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author(s)
 
 - Mohammed Soliman
 - Moustafa Hesham
