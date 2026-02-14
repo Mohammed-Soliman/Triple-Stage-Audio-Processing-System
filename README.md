@@ -1,5 +1,4 @@
 # Triple-Stage-Audio-Processing-System
-# Integrated Triple-Stage Audio Processing System
 
 This project implements a multi-stage audio processing system in MATLAB and Simulink. It combines **three audio processing modules** into a single GUI application for real-time audio manipulation.
 
